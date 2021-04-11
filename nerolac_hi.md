@@ -1,5 +1,5 @@
 **अगर आप हिंदी जारी रखना चाहते हैं तो नीचे दिए गए लिंक पर टैप करें:**
-[English]()
+[English](https://github.com/Aayon-Mukherjee/Nerolac_Paints_en/blob/main/Nerolac_en.md)
 
 ![Nerolac Logo](https://www.nerolac.com/sites/default/files/logo-landing_0.png)
 
